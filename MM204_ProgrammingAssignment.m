@@ -1,4 +1,4 @@
-nodes = input('Enter no. of nodes')
+nodes = input('Enter no. of nodes');
 t = 1.5;
 Tinfi = 523;
 qdot = 10^8;
