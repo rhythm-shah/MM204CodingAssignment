@@ -22,4 +22,7 @@ The first row of the matrix represents temperatures at t = 0 on different nodes.
 Similarly for the second row represents temperatures at t = delta-t on different nodes and so on.
 
 Using the number of nodes we calculate delta-x. And using the condition on coefficients of temperature values we get delta-t.
-Using the value of delta-t we determine the number and size of steps the code will take on each iteration 
+Using the value of delta-t we determine the number and size of steps the code will take on each iteration and calulate the temperature at each node and time step.
+
+Finally we plot the graphs between Temperature and Distance.
+And between Temperature at a node and Time.
